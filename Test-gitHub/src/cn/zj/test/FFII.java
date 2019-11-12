@@ -4,7 +4,9 @@ public class FFII {
 
 	public static void main(String[] args) {
 		System.out.println("完善bug");
-                      System.out.println("完善bug");
+          System.out.println("完善bug1");
+          
+          System.out.println("完善22");
 
 	}
 
